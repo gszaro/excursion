@@ -1,3 +1,5 @@
-git remote add origin https://github.com/gszaro/excursion.git
-git branch -M main
-git push -u origin main
+body {
+    background-color: #000;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
